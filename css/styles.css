@@ -237,7 +237,7 @@ sup {
 }
 
 a {
-  color: #00ced1;
+  color: #b2c6c7;
   text-decoration: underline;
 }
 a:hover {
@@ -7719,7 +7719,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #00ced1 !important;
+  color: #b2c6c7  !important;
 }
 
 .text-secondary {
@@ -7810,9 +7810,9 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
-  background: rgb(2,0,36);
-  background: linear-gradient(349deg, rgb(149 77 159) 0%, rgb(68 166 196) 35%, rgb(84 229 111) 100%);
+  background-color: black !important;
+  background: black !important;
+  background: black !important;
 }
 .bg-secondary {
   --bs-bg-opacity: 1;
